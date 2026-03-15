@@ -17,5 +17,5 @@ n1 db 2
 	int 21h
 
 	mov ax,4c00h
-	int 21
+	int 21h
 	end start
