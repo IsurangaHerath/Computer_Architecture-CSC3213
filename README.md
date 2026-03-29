@@ -9,3 +9,5 @@ Day 02- Basic arithmetic operations and user input
 Day 03- Get 2 digits number
 
 Day 04- Arithmetic operations in 2 digits numbers
+
+Day 05- Compair operations and loops
