@@ -7,3 +7,5 @@ Day 01- Basic printing programs
 Day 02- Basic arithmetic operations and user input
 
 Day 03- Get 2 digits number
+
+Day 04- Arithmetic operations in 2 digits numbers
