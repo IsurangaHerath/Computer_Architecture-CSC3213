@@ -11,3 +11,6 @@ Day 03- Get 2 digits number
 Day 04- Arithmetic operations in 2 digits numbers
 
 Day 05- Compair operations and loops
+
+Day 06- Solve problems using above methods
+
