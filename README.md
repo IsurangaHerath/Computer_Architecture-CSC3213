@@ -14,6 +14,12 @@ Day 05- Compair operations and loops
 
 Day 06- Solve problems using above method
 
+Day 07- Conditions
+
+Day 08- Conditions 2
+
+Day 09- Star patterns
+
 Tutoral- Question and answers
 
 Tutoral 2- Question and answers 2
