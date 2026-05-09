@@ -20,6 +20,8 @@ Day 08- Conditions 2
 
 Day 09- Star patterns
 
-Tutoral- Question and answers
+Day 10 and 11- Equations like NcR,Fibonacci and more Quections and answers
+
+T utoral- Question and answers
 
 Tutoral 2- Question and answers 2
