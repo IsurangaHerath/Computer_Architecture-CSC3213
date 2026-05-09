@@ -15,3 +15,5 @@ Day 05- Compair operations and loops
 Day 06- Solve problems using above method
 
 Tutoral- Question and answers
+
+Tutoral 2- Question and answers 2
